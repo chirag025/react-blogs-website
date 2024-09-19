@@ -4,7 +4,7 @@ const Card = ({ post }) => {
 
 
   return (
-    <div className="p-1 md:p-4 bg-white shadow-md rounded-md dark:bg-gray-800">
+    <div className="p-3 md:p-4 bg-white shadow-md rounded-md dark:bg-gray-800">
       <Link to={`/blog/${post.id}`}>
         <p className="font-bold text-base hover:underline">
           {post.title}
