@@ -7,7 +7,7 @@ Welcome to Blog Nexus! This is a modern blog platform developed using React, des
 
 - *External API Integration:* Seamlessly fetches and displays blog content from an external API.
 - *Dark Mode:* Switch between light and dark themes with a simple toggle for a personalized reading experience.
-- Filtering Options:* Easily filter and sort blog posts by categories, tags, or other criteria.
+- *Filtering Options:* Easily filter and sort blog posts by categories, tags, or other criteria.
 - *Responsive Design:* Ensures optimal viewing on various devices and screen sizes.
 - *Interactive UI:* Provides smooth transitions and engaging interactive elements.
 
