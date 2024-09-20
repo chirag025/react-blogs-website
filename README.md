@@ -18,3 +18,5 @@ Welcome to Blog Nexus! This is a modern blog platform developed using React, des
 - **Tailwind CSS:** For styling and ensuring responsive design.
 - **External API:** For dynamic blog content retrieval.
 - **React Router:** For navigation between pages.
+
+![Screenshot 2024-09-20 164111](https://github.com/user-attachments/assets/3cb7f099-de12-4e5a-aded-401ec4737d7f)
